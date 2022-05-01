@@ -1,0 +1,6 @@
+Chave SSH
+codigos para ultilizar o SSH: 
+
+eval $(ssh-agent -s)
+
+ssh-add id_ed25519

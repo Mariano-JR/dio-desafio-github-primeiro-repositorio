@@ -1,0 +1,12 @@
+Primeiros comandos GIT:
+
+git init - iniciar o repositorio do git
+gir add - mover arquivo e versionamento
+git commit -m "Mensagem" - criar commit
+ls -a - mostrar arquivos ocultos
+git status - mostra o status da commit dentro da pasta
+git add * - move tudo que foi alterado para staged
+git remote add origin - move os commit para o repositorio remoto como github
+git push origin master - empurra os arquivos para o GitHub
+git pull origin master - puxa os arquivos do GitHub para o pc
+git clone - clonar repositorio do GitHub

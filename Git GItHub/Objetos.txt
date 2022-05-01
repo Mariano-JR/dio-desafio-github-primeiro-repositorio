@@ -1,0 +1,24 @@
+Blob: tipo de arquivo Git que contem seu metadado: tipo, tamanho e conteudo
+EX: Blob      tamanho 42
+
+\0
+Ola Mundo
+
+Tree: Armazenam Blobs com metadados, direcionando a esses blobs ou até mesmo outras arvores
+EX: Tree     <tamanho>
+
+\0
+
+blob  sa4d8s  texto.txt
+
+Commit: Leva em si, a tree, parente(Ultimo Commit acessado), o autor do arquivo, a mensagem do autor e a hora e data que foi criado
+EX: Commit    <tamanho>
+
+tree       s4a5ssq1
+parente    a98acq1
+autor      perkles
+
+mensagem   "Inicia..."
+
+timestamp
+
