@@ -1,0 +1,9 @@
+dir - lista de pastas
+cd - navegar entre pastas
+cd .. - voltar pasta
+cls - limpar terminal
+TAB (Botão) - Auto Completar
+mkdir - criar pasta
+echo ... - criar arquivo
+del - deletar arquivos dentro da pasta
+rmdir - deletar pasta completa
